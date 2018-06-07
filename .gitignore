@@ -3,3 +3,4 @@
 /vendor
 .phpstorm.meta.php
 phpunit.xml
+composer.lock
