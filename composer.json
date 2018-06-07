@@ -1,6 +1,6 @@
 {
   "name": "webklex/laravel-queue-database-ph4",
-  "description": "Laravel Database queue driver with optimistic locking",,
+  "description": "Laravel Database queue driver with optimistic locking",
   "type": "library",
   "license": "MIT",
   "authors": [
